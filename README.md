@@ -6,7 +6,7 @@ pip install bs4
 pip install rich
 pip install requests
 termux-setup-storage
-git clone https://github.com/jamescruzlaren/jamescruzlaren
-cd 
+git https://github.com/briancruz-crypto/briancruz
+cd briancruz
 git pull
 python sharefbv2.py
