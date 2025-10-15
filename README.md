@@ -9,4 +9,4 @@ termux-setup-storage
 git https://github.com/briancruz-crypto/briancruz
 cd briancruz
 git pull
-python sharefbv2.py
+python zeke.py
