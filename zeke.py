@@ -139,7 +139,7 @@ def extract_ids(url):
     
 def jovan():
     adrkz = "\033[34m "
-    print(f"""{white}☠️ M O D I F I E D ＢＹ > {red}BRIAN {white}
+    print(f"""{white}☠️ M O D I F I E D ＢＹ > {red}BRIAN {blue}
 
     ███████  █████   ██████ ███████ ██████   ██████  ████████ 
     ██      ██   ██ ██      ██      ██   ██ ██    ██    ██     
@@ -3558,7 +3558,7 @@ def randc():
     return random.choice([R, G, Y, B, M, P, C])
 
 def logo():
-    rp(pan(f"""{white}☠️ M O D I F I E D ＢＹ > {red}GABX9 {white}
+    rp(pan(f"""{white}☠️ M O D I F I E D ＢＹ > {red}GABX9 {blue}
 
     ███████  █████   ██████ ███████ ██████   ██████  ████████ 
     ██      ██   ██ ██      ██      ██   ██ ██    ██    ██     
@@ -5178,7 +5178,7 @@ white = "\033[1;37m"
 os.system('clear')
 def jovan():
     adrkz = "\033[34m "
-    print(f"""{white}☠️ M O D I F I E D ＢＹ > {red}BRIAN {white}
+    print(f"""{white}☠️ M O D I F I E D ＢＹ > {red}BRIAN {blue}
 
     ███████  █████   ██████ ███████ ██████   ██████  ████████ 
     ██      ██   ██ ██      ██      ██   ██ ██    ██    ██     
@@ -5773,8 +5773,8 @@ def main():
     jovan()
     print(f""" {white}[{red}≠{white}] OVERVIEW OF STORED ACCOUNT & PAGES💫
     
- {white}[{red}≠{white}] VERSION - v4
- {white}[{red}≠{white}] FB - Brian Cruz
+ {white}[{red}≠{white}] VERSION - v5
+ {white}[{red}≠{white}] TOOLS OWNER - Brian Cruz
  {white}[{red}≠{white}] BOOSTING TOOL
  {white}[{red}≠{white}] PHILIPPINES
  
@@ -5782,33 +5782,33 @@ def main():
  {white}[{red}≠{white}] FRA PAGES  {yellow} : {green}{total_pages}
  {white}[{red}≠{white}] RPW ACCOUNT{yellow} : {green}0
  {white}[{red}≠{white}] RPW PAGES  {yellow} : {green}{total_pages_rpw}
- {white}---------------------------------------------------------------------\033[0m""")
+ {yellow}---------------------------------------------------------------------\033[0m""")
     print(f"                          {green} Services We Offer✨                               ")
     print(f"{white}[{red}01{white}] {green}START")
-    print(f"{white}[{red}02{white}] {white}REACT TO POST             {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}03{white}] {white}REACT TO REELS            {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}04{white}] {white}REACT TO GROUP POST       {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}05{white}] {white}REACT TO POST[VID & PHOTO]{yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}06{white}] {white}AUTO FOLLOW               {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}07{white}] {white}AUTO REACT TO DP & POST   {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}08{white}] {white}AUTO COMMENT              {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}09{white}] {white}AUTO LIKE & FOLLOW PAGE   {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}10{white}] {white}AUTO SHARE [VIA COOKIE]   {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}11{white}] {white}AUTO REACT COMMENT        {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}12{white}] {white}AUTO REPLY COMMENT        {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}13{white}] {white}REACT TO POST (W CARE)    {yellow}- {green}[PAGE & ACCOUNT]")
-    print(f"{white}[{red}14{white}] {white}AUTO GROUP JOIN           {yellow}- {green}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}02{white}] {white}REACT TO POST             {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}03{white}] {white}REACT TO REELS            {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}04{white}] {white}REACT TO GROUP POST       {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}05{white}] {white}REACT TO POST[VID & PHOTO]{yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}06{white}] {white}AUTO FOLLOW               {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}07{white}] {white}AUTO REACT TO DP & POST   {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}08{white}] {white}AUTO COMMENT              {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}09{white}] {white}AUTO LIKE & FOLLOW PAGE   {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}10{white}] {white}AUTO SHARE [VIA COOKIE]   {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}11{white}] {white}AUTO REACT COMMENT        {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}12{white}] {white}AUTO REPLY COMMENT        {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}13{white}] {white}REACT TO POST (W CARE)    {yellow}- {blue}[PAGE & ACCOUNT]")
+    print(f"{white}[{red}14{white}] {white}AUTO GROUP JOIN           {yellow}- {blue}[PAGE & ACCOUNT]")
     print(f"{white}[{red}15{white}] {white}AUTO REACT {red}LIVE           {yellow}- {green}[PAGE & ACCOUNT]")
     print(f"{white}[{red}16{white}] {white}AUTO COMMENT {red}LIVE         {yellow}- {green}[PAGE & ACCOUNT]")
     print(f"{white}[{red}16{white}] {red}RESET")
-    print(f"{white}----------------------------------------------------------------------\033[0m")
-    print(f"                             {red}ADDITIONALS 🔥                                 ")
+    print(f"{yellow}----------------------------------------------------------------------\033[0m")
+    print(f"                             {red}NEW SERVICES🔥                                 ")
     print()
-    print(f"{white}[{red}18{white}] {white}AUTO CREATE PAGE          {yellow}- {green}[PHB NAMES]")
-    print(f"{white}[{red}19{white}] {white}AUTO SET PFP              {yellow}- {green}[RANDOM]")
-    print(f"{white}[{red}20{white}] {white}CREATE FILE               {yellow}- {green}[RANDOM]")
-    print(f"{white}[{red}21{white}] {white}REMOVE DUPLICATES         {yellow}- {green}[ACCURATE]")
-    print(f"{white}----------------------------------------------------------------------\033[0m")
+    print(f"{white}[{red}18{white}] {white}AUTO CREATE PAGE          {yellow}- {red}[PHB NAMES]")
+    print(f"{white}[{red}19{white}] {white}AUTO SET PFP              {yellow}- {red}[RANDOM]")
+    print(f"{white}[{red}20{white}] {white}CREATE FILE               {yellow}- {red}[RANDOM]")
+    print(f"{white}[{red}21{white}] {white}REMOVE DUPLICATES         {yellow}- {red}[ACCURATE]")
+    print(f"{yellow}----------------------------------------------------------------------\033[0m")
     print(f"                          {green}ACCOUNT CHECKER ✅                                 ")
     print()
     print(f"{white}[{red}22{white}] {white}ACCOUNT CHECKER         {yellow}- {green}[ACCURATE]")
@@ -5817,7 +5817,7 @@ def main():
     print(f"{white}[{red}25{white}] {white}AUTO SHARE              {yellow}- {green}[MAX SPEED/PRIVATE]")
     print(f"{white}[{red}26{white}] {white}AUTO SHARE              {yellow}- {green}[MAX SPEED/PUBLIC]")
     print(f"{white}[{red}27{white}] {white}ADD FUNDS               {yellow}- {green}[TOTAL FUNDS]")
-    print(f"{white}----------------------------------------------------------------------\033[0m")
+    print(f"{yellow}----------------------------------------------------------------------\033[0m")
     choice = input(f" {white}[{red}≠{white}] {white}CHOICE: ").strip()         
 #C:\Users\Dont touch my pc\Desktop\OPENSOURCE\zeke.py
     if choice == '1':
@@ -5889,3 +5889,4 @@ if __name__ == "__main__":
     
     
     
+
