@@ -9,4 +9,4 @@ termux-setup-storage
 git https://github.com/briancruz-crypto/briancruz
 cd briancruz
 git pull
-python brian-checker.py
+python zeke.py
